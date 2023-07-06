@@ -9,6 +9,7 @@ There are next methods
 Example
 
 func main() {
+
 	cache := cache.New()
 
 	cache.Set("field1", 43)
